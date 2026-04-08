@@ -62,8 +62,5 @@ StockSense/
    ```
 2. Run the cells sequentially to execute the full pipeline from Data Ingestion to Procurement Recommendations.
 
-## 📝 Author
-- **ChinnappaSwami**
-
 ## 🏷️ Version
 - **StockSense v1.0**
