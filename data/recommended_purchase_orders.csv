@@ -1,0 +1,9 @@
+component_id,required_qty,criticality,primary_vendor,primary_risk_prob,primary_order_qty,split_sourcing,backup_vendor,backup_risk_prob,backup_order_qty,combined_coverage
+CASING_B,205000,0.6,VND_GAMMA,0.067,230003,False,—,,0,0.9538
+CABLE_R,100000,0.7,VND_GAMMA,0.07,112296,False,—,,0,0.9538
+MOTOR_X,50000,0.95,VND_GAMMA,0.073,56324,False,—,,0,0.9516
+BLADE_X,40000,0.85,VND_GAMMA,0.087,45142,False,—,,0,0.9536
+SWITCH_S,20000,0.65,VND_GAMMA,0.083,22553,False,—,,0,0.9533
+BEARING_01,10000,0.8,VND_GAMMA,0.072,11239,False,—,,0,0.9536
+BATTERY_A,10000,0.9,VND_GAMMA,0.083,11271,False,—,,0,0.9538
+SCREW_M4,5000,0.4,VND_GAMMA,0.077,5629,False,—,,0,0.9533
